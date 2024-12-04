@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { lusitana } from '@/app/ui/fonts';
 import Search from '@/app/ui/search';
+import Page from '@/app/page'; '@/app/dashboard/page';
 import {
   CustomersTableType,
   Product,
